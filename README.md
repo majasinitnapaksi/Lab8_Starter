@@ -7,7 +7,7 @@ name: Soohwan Jeon
 
 ## GitHub Pages URL
 
-https://너의아이디.github.io/Lab8_Starter/
+[https://너의아이디.github.io/Lab8_Starter/](https://majasinitnapaksi.github.io/Lab8_Starter/)
 
 ## Meaning of Graceful Degradation and Service Workers 
 
